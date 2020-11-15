@@ -1,4 +1,4 @@
-# Ignore all files
+# Ignore all filesидщи
 *
 
 # Don't ignore git files
@@ -9,14 +9,14 @@
 !*.pro
 !*.sch
 
-# Gerber archieve
+# Don't ignore gerber archive
 !gerber/*_github.zip
 
-# View
+# Don't ignore view
 !view/*/*_bottom_github.png
 !view/*/*_top_github.png
 
-# Docs
+# Don't ignore docs
 !docs/scheme_*.jpg
 
 # Even if they are in subdirectories

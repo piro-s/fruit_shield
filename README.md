@@ -13,4 +13,4 @@ Version 0.1, just test.
 
 ## gerber:
 Archive for production:
-[gerber](gerber/fruit_shield_v0.1_github.zip)
+[gerber](https://github.com/piro-s/fruit_shield/raw/main/gerber/fruit_shield_v0.1_github.zip)
