@@ -1,0 +1,20 @@
+# Ignore all files
+*
+
+# Don't ignore git files
+!.gitignore
+
+# Don't ignore KiCad files
+!*.kicad_pcb
+!*.pro
+!*.sch
+
+# Gerber archieve
+!gerber/*_github.zip
+
+# View
+!view/*/*_bottom_github.png
+!view/*/*_top_github.png
+
+# Even if they are in subdirectories
+!*/
