@@ -16,5 +16,8 @@
 !view/*/*_bottom_github.png
 !view/*/*_top_github.png
 
+# Docs
+!docs/scheme_*.jpg
+
 # Even if they are in subdirectories
 !*/
